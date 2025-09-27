@@ -14,7 +14,6 @@ int main()
     }
     return 0;
 }
-
 //A number is called even if it is exactly divisible by 2.
 //A number is called odd if it is not divisible by 2
 //Must use "int" for this, cause for eg:4.5 is not even nor odd,
