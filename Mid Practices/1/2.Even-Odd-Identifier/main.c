@@ -18,3 +18,7 @@ int main()
 //A number is called even if it is exactly divisible by 2.
 //A number is called odd if it is not divisible by 2
 //Must use "int" for this, cause for eg:4.5 is not even nor odd,
+//Uses simple if condition, check if the reminder is 0 or not divisible by 2,
+
+//The symbol % in C is called the modulus (or remainder) operator.
+//It gives the remainder after dividing one integer by another.
