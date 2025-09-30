@@ -1,5 +1,5 @@
 # C Programme SPL Problem Practice Academic 
-Academic SPL problem solving of C programme
+Academic SPL problem solving of C program
 
 This repo contains some practice problem of "C" programming to clear the basic concept of C,
 here i will upload my academic related practice problems,
